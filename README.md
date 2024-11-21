@@ -69,10 +69,10 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 
 ## Others 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoreep100&layout=compact)
 
-![Antoreep100 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
+![Antoreep100 GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoreep100&show_icons=true&theme=default)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Antoreep100&theme=default)](https://git.io/streak-stats)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Antoreep100&color=blue&label=Profile+Views)](https://github.com/Antoreep100)
