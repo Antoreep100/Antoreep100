@@ -2,7 +2,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801683847978-brightgreen)](https://wa.me/8801683847978)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/antoreep.bayzid)
-[![Email](https://img.shields.io/badge/Email-tamimr795@gmail.com-blue)](mailto:afnantheviper@@gmail.com)
+[![Email](https://img.shields.io/badge/Email-afnantheviper@gmail.com-blue)](mailto:afnantheviper@@gmail.com)
 
 
 
@@ -65,13 +65,13 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Antoreep100)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)(https://www.facebook.com/antoreep.bayzid)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/antoreep.bayzid)
 
 
 ## Others 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact)
 
-![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
+![Antoreep100 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)](https://git.io/streak-stats)
 
